@@ -1,7 +1,7 @@
 from turtle import *
 import math
 
-# Name your Turtle. Right now its name is t.
+# Name your Turtle. Right now her name is t. If you change her name, make sure to change the name below, too.
 t = Turtle()
 
 # Set Up your screen and starting position.
