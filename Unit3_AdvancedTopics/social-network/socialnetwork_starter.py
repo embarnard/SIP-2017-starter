@@ -10,6 +10,4 @@ def main():
     # Define the program flow for your user interface here.
 
 
-# Runs your program.
-if __name__ == '__main__':
-    main():
+main():
